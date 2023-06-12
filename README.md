@@ -20,3 +20,5 @@
   ![Snake animation](https://github.com/gbL25/gbL25/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+![Snake animation](https://github.com/gbL25/gbL25/blob/output/github-contribution-grid-snake.svg)
