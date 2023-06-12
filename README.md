@@ -1,6 +1,10 @@
-## Oi eu sou o Gabriel Alves, sou desenvolvedor Front End cursando para ser FullStack!
+## Oi eu sou o Gabriel Alves, sou desenvolvedor Front End.
 
-
+<div align="center">
+  <a href="https://github.com/gbL25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbL25&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbL25&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
